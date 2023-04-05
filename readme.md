@@ -1,3 +1,8 @@
+### Programı çalıştırmak için `git clone github.com/KLU5200505054/algoritma-analizi-o2-s2.git` komutu ile klonladıktan sonra proje dizininde `python -m main.py` komutunu çalıştırın.
+
+### Uygulamanın çalışması için python kurulu olmalıdır!
+
+
 ### Raita algoritması
 
 Raita algoritması, sıralanmış bir dizide (örneğin, sayılar veya harfler gibi) aranan bir öğenin konumunu bulmak için kullanılan bir algoritmadır. Bu algoritma, ikili arama (binary search) algoritmasının bir varyasyonudur ve ikili aramaya göre bazı avantajlara sahiptir.
